@@ -1,6 +1,6 @@
-# 달구름 · dalgurum
+# 달구름 · DalGurum
 
-> 작지만 단단한 서비스를 만듭니다.
+> AI와 함께하는 개발 지원 도구를 개발하고 서비스를 위한 개인 플랫폼을 향해 나아갑니다.
 
 ---
 
@@ -11,11 +11,16 @@
 
 ## 🌥️ 진행 중인 프로젝트
 
-| 프로젝트 | 설명 | 상태 |
-|--------|------|------|
-| [pool-api](https://github.com/dalgurum/pool-api) | 실시간 커뮤니티 플랫폼 백엔드 | 🟢 개발 중 |
+| 프로젝트 | 설명 | 상태 | 공개여부 |
+|--------|------|------|------|
+| [달구름 AI 모니터링 에이전트 라이브러리](https://github.com/dalgurum/dalgurum-ai-monitoring-library.git) | AI를 활용한 서비스 모니터링 및 트러블슈팅 지원 에이전트 | ⚫ 완료 | PUBLIC |
+| 달구름 AI 성능 테스터 | Swagger 및 엔드포인트 기반 k6 테스트기 | ⚫ 완료 | PUBLIC |
+| [달구름 Claude AI 팀](https://github.com/dalgurum/dalgurum-claude-team.git) | 달구름 서비스 개발을 함께하는 Cladue 서브 에이전트 및 에이전트 팀 설정 | ⚫ 완료 | PRIVATE |
+| 달구름 서비스 인증 서버 | 달구름 서비스를 더 폭넓게 사용할 수 있는 계정을 위한 자체 인증 서버 | 🔵 예정 | PRIVATE |
 
 <br/>
+
+<!-- 🔵 예정 🟢 개발 중 -->
 
 ## 🧭 개발 철학
 
