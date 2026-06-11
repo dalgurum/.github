@@ -9,14 +9,39 @@
 
 <br/>
 
-## 🌥️ 진행 중인 프로젝트
+## 🌥️ 달구름 프로젝트
 
 | 프로젝트 | 설명 | 상태 | 공개여부 |
 |--------|------|------|------|
-| [달구름 AI 모니터링 에이전트 라이브러리](https://github.com/dalgurum/dalgurum-ai-monitoring-library.git) | AI를 활용한 서비스 모니터링 및 트러블슈팅 지원 에이전트 | ⚫ 완료 | PUBLIC |
+| 달구름 서비스 인증 서버 | 달구름 서비스를 더 폭넓게 사용할 수 있는 계정을 위한 자체 인증 서버 | ⚫ 완료 | PRIVATE |
+
+<br/>
+
+## 🌥️ 달구름 Developer 프로젝트
+| 프로젝트 | 설명 | 상태 | 공개여부 |
+|--------|------|------|------|
+| [AI 모니터링 에이전트 라이브러리](https://github.com/dalgurum/dalgurum-ai-monitoring-library.git) | AI를 활용한 서비스 모니터링 및 트러블슈팅 지원 에이전트 | ⚫ 완료 | PUBLIC |
 | 달구름 AI 성능 테스터 | Swagger 및 엔드포인트 기반 k6 테스트기 | ⚫ 완료 | PUBLIC |
 | [달구름 Claude AI 팀](https://github.com/dalgurum/dalgurum-claude-team.git) | 달구름 서비스 개발을 함께하는 Cladue 서브 에이전트 및 에이전트 팀 설정 | ⚫ 완료 | PRIVATE |
-| 달구름 서비스 인증 서버 | 달구름 서비스를 더 폭넓게 사용할 수 있는 계정을 위한 자체 인증 서버 | 🔵 예정 | PRIVATE |
+| [Compact Redis 모듈](https://github.com/dalgurum/dalgurum-compact-redis-module.git) | 아주 쉽게 사용하는 Redis 대기열 및 Pub/Sub | ⚫ 완료 | PUBLIC |
+| [3D LIK(Dalgurum Developer with Docker Local Infra Kit)](https://github.com/dalgurum/dalgurum-dev-infra-runner.git) | clone을 통해 쉽게 만드는 개발용 로컬 인프라 | ⚫ 완료 | PUBLIC |
+
+
+<br/>
+
+## 🌥️ 달구름 게이밍 프로젝트
+| 프로젝트 | 설명 | 상태 | 공개여부 |
+|--------|------|------|------|
+| 서브컬처 게임 in One 플랫폼 | 서브컬처 게임들의 정보를 한 군데서 몰아볼 수 있는 올인원 플랫폼 | 🟢 개발 중 | PUBLIC |
+
+
+<br/>
+
+## 🌥️ 달구름 My 프로젝트
+| 프로젝트 | 설명 | 상태 | 공개여부 |
+|--------|------|------|------|
+| 달구름 in Me | 오직 나만을 위한 프라이빗 SNS 서비스 | 🔵 예정 | PUBLIC |
+
 
 <br/>
 
