@@ -26,7 +26,7 @@
 | 프로젝트 | 설명 | 상태 | 공개여부 |
 |--------|------|------|------|
 | [AI 모니터링 에이전트 라이브러리](https://github.com/dalgurum/dalgurum-ai-monitoring-library.git) | AI를 활용한 서비스 모니터링 및 트러블슈팅 지원 에이전트 | ⚫ 완료 | PUBLIC |
-| 달구름 AI 성능 테스터 | Swagger 및 엔드포인트 기반 k6 테스트기 | ⚫ 완료 | PUBLIC |
+| [달구름 AI 성능 테스터](https://github.com/dalgurum/dalgurum-api-performance-tester.git) | Swagger 및 엔드포인트 기반 k6 테스트기 | ⚫ 완료 | PUBLIC |
 | [달구름 Claude AI 팀](https://github.com/dalgurum/dalgurum-claude-team.git) | 달구름 서비스 개발을 함께하는 Cladue 서브 에이전트 및 에이전트 팀 설정 | ⚫ 완료 | PRIVATE |
 | [Compact Redis 모듈](https://github.com/dalgurum/dalgurum-compact-redis-module.git) | 아주 쉽게 사용하는 Redis 대기열 및 Pub/Sub | ⚫ 완료 | PUBLIC |
 | [3D LIK](https://github.com/dalgurum/dalgurum-dev-infra-runner.git) | clone을 통해 쉽게 만드는 개발용 로컬 인프라 | ⚫ 완료 | PUBLIC |
